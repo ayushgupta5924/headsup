@@ -1,6 +1,0 @@
-{
-  "buildCommand": "npm run build",
-  "outputDirectory": "heads-up/dist",
-  "installCommand": "cd heads-up && npm install",
-  "framework": "vite"
-}
