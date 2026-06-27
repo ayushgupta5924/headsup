@@ -12,13 +12,13 @@ export const HARDCODED_WORDS = {
     "Peeling a Potato","Kneading Dough","Lighting a Cigarette","Driving a Car","Sharpening a Pencil","Rowing a boat","Wrapping a Gift","Gargling","Cracking an Egg","Playing a Piano","Doing Karaoke","Loosening a Tie","Skipping Rope","Boxing","Stopping a Taxi","Giving a High Five","Proposing","Taking a Bath","Doing Push Ups","Moon Walking",
   ],
   R5: [
-    "Splashing Water","Hud Hud Dabbang","Instructing as a Flight Attendant","Flying a Kite","Mountain Climbing","Fainting","Scaring Someone","Zombie Walking","Modelling","Hungry","Changing a tire","Playing Darts","Hoolah Hooping","Rope walking","Playing chess","Blowing up a balloon","Acting like a Monkey","Hugging","Cat Walk",
+    "Splashing Water","Hud Hud Dabbang","Instructing as a Flight Attendant","Climbing Stairs","Flying a Kite","Mountain Climbing","Fainting","Scaring Someone","Zombie Walking","Modelling","Hungry","Changing a tire","Playing Darts","Hoolah Hooping","Rope walking","Playing chess","Blowing up a balloon","Acting like a Monkey","Hugging","Cat Walk",
   ],
   R6: [
     "Opening a Can","Feeding a Cow","Making Braids","Cheerleading","Drinking from a Straw","Losing your Keys","Curling your Hair","Hugging","Plucking Flower Petals","Scissors","Putting on a Belt","Baking","Poison","Reading","Wine Tasting","Planting a Tree","Doodling","Changing a Tire","Volcano","Defusing a Bomb",
   ],
   R7: [
-    "Golfing","Wedding Practices","Doing Yoga","Catching a Mosquito","Eating Spicy Food","Hiccups","Answering Wrong Number","Statue","Cutting a Cake","Wrestling","Horse Riding","Dreaming","Getting Lost","DJ","Rope Skipping","Road Trip","Magnet",
+    "Golfing","Wedding Practices","Doing Yoga","Catching a Mosquito","Applying Lipstick","Tying Shoelace","Cooking","Eating Spicy Food","Hiccups","Answering Wrong Number","Statue","Cutting a Cake","Wrestling","Horse Riding","Dreaming","Getting Lost","DJ","Rope Skipping","Road Trip","Magnet",
   ],
 };
 
