@@ -41,13 +41,12 @@ export const HARDCODED_WORDS = {
   ],
 };
 
-const CATEGORIES = [
-  { id: "celebrities", name: "Celebrities", emoji: "🌟", color: "#FF6B6B" },
-  { id: "movies",      name: "Movies",      emoji: "🎬", color: "#4ECDC4" },
-  { id: "animals",     name: "Animals",     emoji: "🦁", color: "#F7B731" },
-  { id: "places",      name: "Places",      emoji: "🗺️", color: "#A29BFE" },
-  { id: "actions",     name: "Act It Out",  emoji: "🎭", color: "#FD79A8" },
-  { id: "food",        name: "Food & Drink",emoji: "🍕", color: "#00B894" },
+onst CATEGORIES = [
+  { id: "R1", name: "Round 1", emoji: "1️⃣", color: "#FF6B6B" },
+  { id: "R2", name: "Round 2", emoji: "2️⃣", color: "#4ECDC4" },
+  { id: "R3", name: "Round 3", emoji: "3️⃣", color: "#F7B731" },
+  { id: "R4", name: "Round 4", emoji: "4️⃣", color: "#A29BFE" },
+  { id: "R5", name: "Round 5", emoji: "5️⃣", color: "#00B894" },
 ];
 
 export default CATEGORIES;
