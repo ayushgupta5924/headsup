@@ -5,8 +5,8 @@ import CATEGORIES, { HARDCODED_WORDS } from "./words.js";
 const TEAMS      = { A: "Surendra", B: "Sangeeta" };
 const TEAM_COLOR = { A: "#FF6B6B",  B: "#4ECDC4"  };
 
-const WORDS_PER_ROUND = 8;
-const TIMER_SECONDS   = 30;
+const WORDS_PER_ROUND = 25;
+const TIMER_SECONDS   = 60;
 const SCREEN = {
   GUEST: "guest", LOBBY: "lobby", CATEGORY: "category",
   PLAYING: "playing", RESULTS: "results", SCOREBOARD: "scoreboard",
