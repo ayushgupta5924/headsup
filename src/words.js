@@ -23,21 +23,21 @@ export const HARDCODED_WORDS = {
     "Knitting","Doing Yoga","Horse Riding",
   ],
   R3: [
-    "Peeling a Potato","Kneading Dough","The Great Wall of China","Niagara Falls",
-    "The Sahara Desert","Stonehenge","The Colosseum","Mount Everest",
-    "The Grand Canyon","Easter Island","Angkor Wat","The Taj Mahal",
-    "Chichen Itza","The Great Barrier Reef","The Dead Sea","Bora Bora","Petra","Yellowstone",
+    "Peeling a Potato","Kneading Dough","Lighting a Cigarette","Driving a Car",
+    "Sharpening a Pencil","Rowing a boat","Wrapping a Gift","Gargling",
+    "Cracking an Egg","Playing a Piano","Doing Karaoke","Loosening a Tie",
+    "Skipping Rope","Boxing","Stopping a Taxi","Giving a High Five","Proposing","Taking a Bath",
   ],
-  actions: [
-    "Playing guitar","Surfing a wave","Milking a cow","Threading a needle",
-    "Building a sandcastle","Parallel parking","Doing yoga","Hammering a nail",
-    "Painting a fence","Rowing a boat","Changing a tire","Flying a kite",
-    "Hula hooping","Tightrope walking","Playing chess","Blowing up a balloon",
+  R4: [
+    "Splashing Water","Hud Hud Dabbang","Instructing as a Flight Attendant","Flying a Kite",
+    "Mountain CLimbing","Fainting","Scaring Someone","Zombie Walking",
+    "Modelling","Hungry","Changing a tire","Playing Darts",
+    "Hula Hooping","Rope walking","Playing chess","Blowing up a balloon","Actinng like a Monkey"
   ],
-  food: [
-    "Croissant","Pho","Moussaka","Kimchi","Tiramisu","Baklava","Ceviche","Bibimbap",
-    "Shakshuka","Pierogi","Ratatouille","Bouillabaisse","Borscht","Paella",
-    "Rendang","Injera","Tamagoyaki","Stroopwafel","Mole","Baba Ghanoush",
+  R5: [
+    "Opening a Can ","Feeding a Cow","Making Braids","Cheerleading","Drinking from a Straw","Losing your Keys","Curling your Hair","Hugging",
+    "Plucking Flower Petals","Scissors","Putting on a Belt","Baking","Poison","Reading",
+    "Wine Tasting","Planting a Tree","Doodling","Changing a Tire","Vlocano","Defusing a Bomb",
   ],
 };
 
