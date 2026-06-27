@@ -2,28 +2,28 @@
 // To add words: append to any array below. Guest-submitted words are mixed in at runtime.
 
 export const HARDCODED_WORDS = {
-  celebrities: [
-    "Beyoncé","Elon Musk","Taylor Swift","Leonardo DiCaprio",
-    "Oprah Winfrey","LeBron James","Cristiano Ronaldo","Lady Gaga",
-    "Morgan Freeman","Rihanna","Kanye West","Serena Williams",
-    "Tom Hanks","Billie Eilish","Dwayne Johnson","Adele",
-    "Justin Bieber","Scarlett Johansson","Lionel Messi","Shah Rukh Khan",
+  Act it out(R1): [
+    "Chopping onions and crying","Packing a suitcase","Eating a watermelon","Wearing a pair of  jeans",
+    "Listening to music on headphones","Brushing your teeth","Making a bed","Ironing clothes",
+    "Making coffe","Conducting Traffic","Opening a gift","Taking a photo",
+    "Applying Eyeliner","Elevator","Putting on Perfume","Oening a Door",
+    "Climing a Tree","Kicking a Football","Giving a Haircut","Winking",
   ],
-  movies: [
-    "The Dark Knight","Inception","Titanic","Avengers: Endgame",
-    "The Lion King","Interstellar","Jurassic Park","Home Alone",
-    "The Godfather","Spider-Man","Harry Potter","Star Wars",
-    "The Matrix","Forrest Gump","Toy Story","Finding Nemo","Black Panther","Shrek",
+  R2: [
+    "Chopping a Tree","Using a Telescope","Bad Reception","Bowling",
+    "Tying Shoelaces","Giving a Massage","Playing Poker","Flying a Paper Airplane",
+    "Opening an Umbrella","Putting on Makeup","Wrapping a Gift","Ordering Food at a Restaurant",
+    "Building a Snowman","Weightlifting","Folding Clothes","Locking a Door","Changing a Lightbulb","Peeling a Banana",
   ],
-  animals: [
-    "Platypus","Axolotl","Meerkat","Pangolin",
-    "Komodo Dragon","Narwhal","Capybara","Tapir",
-    "Okapi","Binturong","Aye-Aye","Quokka",
-    "Mantis Shrimp","Naked Mole Rat","Fossa","Wolverine",
-    "Manatee","Proboscis Monkey","Shoebill Stork",
+  R3: [
+    "Solvinga Rubik's Cube","Flying a Drone","Filling Petrol","Spilling Drink on Shirt",
+    "Burning your Tongue","Holding a Sneeze","Petting a Dog","Straigtening Hair",
+    "Hammering","Video Game","Driving","Sneaking Out",
+    "Taking a Selfie","Shaving your Face","Opening Champagne Bottle","Tying a Shoelace",
+    "Knitting","Doing Yoga","Horse Riding",
   ],
-  places: [
-    "The Eiffel Tower","Machu Picchu","The Great Wall of China","Niagara Falls",
+  R3: [
+    "Peeling a Potato","Kneading Dough","The Great Wall of China","Niagara Falls",
     "The Sahara Desert","Stonehenge","The Colosseum","Mount Everest",
     "The Grand Canyon","Easter Island","Angkor Wat","The Taj Mahal",
     "Chichen Itza","The Great Barrier Reef","The Dead Sea","Bora Bora","Petra","Yellowstone",
