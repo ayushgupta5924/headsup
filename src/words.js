@@ -41,7 +41,7 @@ export const HARDCODED_WORDS = {
   ],
 };
 
-onst CATEGORIES = [
+const CATEGORIES = [
   { id: "R1", name: "Round 1", emoji: "1️⃣", color: "#FF6B6B" },
   { id: "R2", name: "Round 2", emoji: "2️⃣", color: "#4ECDC4" },
   { id: "R3", name: "Round 3", emoji: "3️⃣", color: "#F7B731" },
