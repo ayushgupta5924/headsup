@@ -2,7 +2,7 @@
 // To add words: append to any array below. Guest-submitted words are mixed in at runtime.
 
 export const HARDCODED_WORDS = {
-  Act it out(R1): [
+  R1: [
     "Chopping onions and crying","Packing a suitcase","Eating a watermelon","Wearing a pair of  jeans",
     "Listening to music on headphones","Brushing your teeth","Making a bed","Ironing clothes",
     "Making coffe","Conducting Traffic","Opening a gift","Taking a photo",
