@@ -157,7 +157,7 @@ function PlayScreen({ word, index, total, timeLeft, timerPct, category, onCorrec
         <div style={{ height: "100%", background: "rgba(255,255,255,0.9)", borderRadius: 5, width: `${(index / total) * 100}%`, transition: "width 0.3s" }} />
       </div>
       <div style={{ display: "flex", alignItems: "center", justifyContent: "center", background: "rgba(255,255,255,0.15)", borderRadius: 28, width: "100%", maxWidth: 420, minHeight: 200, padding: "32px 28px", marginBottom: 28, flex: 1 }}>
-        <p style={{ fontSize: 36, fontWeight: 800, textAlign: "center", color: "#fff", margin: 0, lineHeight: 1.2 }}>{word}</p>
+        <p style={{ fontSize: 90, fontWeight: 800, textAlign: "center", color: "#fff", margin: 0, lineHeight: 1.2 }}>{word}</p>
       </div>
       <div style={{ display: "flex", gap: 14, width: "100%", maxWidth: 420 }}>
         <button onClick={onPass} style={{ flex: 1, background: "rgba(0,0,0,0.25)", border: "2px solid rgba(255,255,255,0.3)", borderRadius: 18, padding: "18px 0", display: "flex", flexDirection: "column", alignItems: "center", gap: 4, color: "#fff" }}>
