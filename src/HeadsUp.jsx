@@ -141,7 +141,7 @@ function CategoryScreen({ activeTeam, onPick }) {
 function PlayScreen({ word, index, total, timeLeft, timerPct, category, onCorrect, onPass }) {
   const timerColor = timeLeft > 10 ? "#00B894" : timeLeft > 5 ? "#F7B731" : "#FF6B6B";
   return (
-    <div style={{ background: category.color, minHeight: "100vh", display: "flex", flexDirection: "column", alignItems: "center", padding: "28px 24px 40px" }}>
+    <div style={{ background: category.color, height: "100vh", overflow: "hidden", display: "flex", flexDirection: "column", alignItems: "center", padding: "28px 24px 40px" }}>
       <div style={{ width: "100%", maxWidth: 420, display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 10 }}>
         <div style={{ fontSize: 20, fontWeight: 700, color: "rgba(255,255,255,0.85)", background: "rgba(0,0,0,0.2)", borderRadius: 20, padding: "4px 12px" }}>{index + 1} / {total}</div>
         <svg width="62" height="62">
